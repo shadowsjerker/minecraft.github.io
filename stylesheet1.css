@@ -346,6 +346,11 @@ div {
     font-size: 40px;
 }
 
+.def {
+    text-align: center;
+    font-size: 18px;
+}
+
 @media only screen and (max-width: 768px) {}
 
 
