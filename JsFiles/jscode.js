@@ -42,6 +42,7 @@ function findWord() {
             document.getElementById("image1").src = itemsI[searchImage1]
         } else if (searchFound1 == "") {
             document.getElementById("image1").src = "imageSource/searchError.png"
+
         }
 
     }
@@ -161,6 +162,12 @@ function findWord() {
         document.getElementById("image1").src = "imageSource/searchEmpty.png"
         document.getElementById("image2").src = "imageSource/searchEmpty.png"
         document.getElementById("image3").src = "imageSource/searchEmpty.png"
+    }
+
+    if (document.getElementById("userInput").value.length == 0) {
+        document.getElementById("defLabel1").innerHTML = "1 آیتم"
+        document.getElementById("defLabel2").innerHTML = "2 آیتم"
+        document.getElementById("defLabel3").innerHTML = "3 آیتم"
     }
 
 
