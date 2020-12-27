@@ -15,9 +15,6 @@ function findWord() {
     var searchImage2 = "";
     var searchfound3 = "";
     var searchImage3 = "";
-    var labelConfig1 = {}
-    var labelConfig2 = {}
-    var labelConfig3 = {}
     var searchFoundsArray = []
 
     searchFoundsArray = [];
@@ -173,12 +170,8 @@ function findWord() {
 
 
 
-    d
 
 
 
-}
-
-function userInputMovement() {
 
 }
