@@ -1,0 +1,9 @@
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.deps.json
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.dll
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.pdb
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.csproj.AssemblyReference.cache
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.AssemblyInfoInputs.cache
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.AssemblyInfo.cs
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.dll
+E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.pdb

@@ -1,0 +1,24 @@
+﻿@if (movies == null)
+{
+    <img src="https://cdn.dribbble.com/users/1415337/screenshots/10781083/loadingdots2.gif" />
+}
+else if (movies.Count == 0)
+{
+    <text>There are no records to show</text>
+
+}
+else
+{
+    @foreach (var movie in movies)
+    {
+        <IndividualMovie movie="movie"></IndividualMovie>
+    }
+}
+
+
+@code {
+    [Parameter] public List<Movie> movies{ set; get; }
+
+    
+
+}

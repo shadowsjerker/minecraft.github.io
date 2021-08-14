@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\Programming\C#\Learning\4. ASP.NET\Blazor\Projects\2\BlazorMovies\BlazorMovies\BlazorMovies\Client\wwwroot\" />
+</StaticWebAssets>
